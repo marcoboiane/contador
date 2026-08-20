@@ -19,9 +19,9 @@ contador/
 └── README.md
 💻 Como executar
 Clone este repositório:
-git clone https://github.com/marcoboiane/contador
+git clone https://github.com/marcoboiane/contador.git
 Abra a pasta do projeto.
-Execute o arquivo index.html no navegador
+Execute o arquivo index.html no navegador.
 🎯 Objetivo
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de HTML, CSS e JavaScript, incluindo manipulação do DOM e eventos de clique.
